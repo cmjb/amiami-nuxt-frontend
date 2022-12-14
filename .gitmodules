@@ -1,0 +1,3 @@
+[submodule "amiami-scrape"]
+	path = amiami-scrape
+	url = https://github.com/cmjb/amiami-scrape.git
